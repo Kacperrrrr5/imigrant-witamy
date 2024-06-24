@@ -40,7 +40,7 @@ function draw() {
 
 function mousePressed() {
   if (isMouseOver(button2X, buttonY, buttonWidth, buttonHeight)) {
-    window.open('https://www.wp.pl', '_self');
+    window.open('https://kacperrrrr5.github.io/imigrant-dane/', '_self');
   }
 }
 
